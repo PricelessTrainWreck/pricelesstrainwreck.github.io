@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Thread Recap [GOOD] [A&#43;&#43;&#43;]</title>
+    <link>https://pricelesstrainwreck.github.io/categories/</link>
+    <description>Recent content in Categories on Thread Recap [GOOD] [A&#43;&#43;&#43;]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pricelesstrainwreck.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thread Recap</title>
+      <link>https://pricelesstrainwreck.github.io/categories/thread-recap/</link>
+      <pubDate>Sun, 01 Jan 2017 14:15:59 -0600</pubDate>
+      
+      <guid>https://pricelesstrainwreck.github.io/categories/thread-recap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
