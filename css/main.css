@@ -22,9 +22,8 @@ body {
 }
 
 p {
-  line-height: 1.5;
-  margin: 30px 0px 0px;
-	text-align: justify;
+  /* line-height: 1.5; */
+  margin: 12px 0px 0px 14px;
 	color: #999;
 }
 
@@ -52,7 +51,7 @@ a:hover{
 }
 
 blockquote, p blockquote {
-  padding: 10px;
+  padding: 16px 10px 10px;
 	border: 3px solid #680f15;
 	background: #0a0a0a;
 	border-radius: 20px;
@@ -113,7 +112,7 @@ img::-moz-selection {
 img {
   max-width: 100%;
   height: auto;
-	background: #0a0a0a;
+	background: #0a0a0a00;
 	/* padding: 10px; */
 	/* border: 3px solid #000; */
 	/* border-radius: 5px; */
@@ -332,6 +331,7 @@ footer .theme-by {
   font-family: 'object-fit: cover;';
   border-radius: 3px;
   margin: 0px 0 0 0;
+  background: #15151500;
 }
 
 /* --- Post preview --- */
@@ -483,7 +483,7 @@ footer .theme-by {
     margin-top: 130px;
   }
   .intro-header.big-img {
-    margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
+    margin-top: 0px;  /* Full navbar is small navbar + 20px padding on each side when expanded (formerly 91px)*/
   } 
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
@@ -670,4 +670,44 @@ small {
 	font-style: italic;
 	font-size: 70%;
 	padding-top: 5px;
+}
+
+
+
+
+
+/* EXTRAS */
+
+.poster {
+  padding: 16px;
+  border: 6px solid #680f15;
+	background: #0a0a0a;
+  border-radius: 20px;
+  position: relative;
+  bottom: -24px;
+  margin-left: -30px;
+  width: 33%
+}
+
+.smilieposter {
+  position: relative;
+  place-content: 0px;
+  height: 0px;
+  bottom: 3px;
+  left: 14px;
+  -webkit-filter: drop-shadow(1px 1px 10px #720606);
+  background: #15151500;
+}
+
+.avatarposter {
+  position: relative;
+  place-content: 0px;
+  bottom: 3px;
+  -webkit-filter: drop-shadow(1px 1px 10px #720606);
+  background: #15151500;
+}
+
+.sa-emote {
+  -webkit-filter: drop-shadow(0px 0px 7px #ffffff);
+  background: #15151500;
 }
