@@ -51,7 +51,7 @@ a:hover{
 }
 
 blockquote, p blockquote {
-  padding: 16px 10px 10px;
+  padding: 26px 10px 10px;
 	border: 3px solid #680f15;
 	background: #0a0a0a;
 	border-radius: 20px;
@@ -697,6 +697,17 @@ small {
   left: 14px;
   -webkit-filter: drop-shadow(1px 1px 10px #720606);
   background: #15151500;
+}
+
+.goonposter {
+  background: #15151500;
+  /* transform: rotate(40deg); */
+  /* z-index: -1; */
+  position: relative;
+  height: 16px;
+  left: 6px;
+  top: 4px;
+  -webkit-filter: drop-shadow(1px 1px 10px #720606);
 }
 
 .avatarposter {
