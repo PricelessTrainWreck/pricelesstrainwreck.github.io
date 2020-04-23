@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://pricelesstrainwreck.github.io/post/2020-04-22/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pricelesstrainwreck.github.io/post/2020-04-15/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
@@ -150,6 +155,12 @@
   </url>
   
   <url>
+    <loc>https://pricelesstrainwreck.github.io/tags/architectural/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pricelesstrainwreck.github.io/tags/architecture/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -215,8 +226,14 @@
   </url>
   
   <url>
+    <loc>https://pricelesstrainwreck.github.io/tags/communicating/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pricelesstrainwreck.github.io/tags/communication/</loc>
-    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -234,7 +251,7 @@
   
   <url>
     <loc>https://pricelesstrainwreck.github.io/tags/constellation/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -313,6 +330,12 @@
   <url>
     <loc>https://pricelesstrainwreck.github.io/tags/disappointing/</loc>
     <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pricelesstrainwreck.github.io/tags/disappointment/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -396,7 +419,7 @@
   
   <url>
     <loc>https://pricelesstrainwreck.github.io/tags/implementing/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -479,6 +502,12 @@
   </url>
   
   <url>
+    <loc>https://pricelesstrainwreck.github.io/tags/maintainable/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pricelesstrainwreck.github.io/tags/micromanaging/</loc>
     <lastmod>2020-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -528,7 +557,7 @@
   
   <url>
     <loc>https://pricelesstrainwreck.github.io/post/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -601,6 +630,12 @@
   <url>
     <loc>https://pricelesstrainwreck.github.io/tags/reputationally/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pricelesstrainwreck.github.io/tags/responsibility/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -684,7 +719,7 @@
   
   <url>
     <loc>https://pricelesstrainwreck.github.io/categories/thread-recap/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
