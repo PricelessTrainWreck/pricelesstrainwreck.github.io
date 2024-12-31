@@ -1,30 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Conversations on Thread Recap</title>
-    <link>https://pricelesstrainwreck.github.io/tags/conversations/</link>
-    <description>Recent content in Conversations on Thread Recap</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pricelesstrainwreck.github.io/tags/conversations/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>January 2020 Set 2</title>
-      <link>https://pricelesstrainwreck.github.io/post/2020-01-31/</link>
-      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pricelesstrainwreck.github.io/post/2020-01-31/</guid>
-      <description>January 2020 Set 2
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Conversations on Priceless Trainwreck</title><link>https://pricelesstrainwreck.github.io/tags/conversations/</link><description>Recent content in Conversations on Priceless Trainwreck</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://pricelesstrainwreck.github.io/tags/conversations/index.xml" rel="self" type="application/rss+xml"/><item><title>January 2020 Set 2</title><link>https://pricelesstrainwreck.github.io/post/2020-01-31/</link><pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate><guid>https://pricelesstrainwreck.github.io/post/2020-01-31/</guid><description>January 2020 Set 2
 Jan Set 2 - 2020
-   [PTU Bug Hunt] 30009 or 30006 errors.
+[PTU Bug Hunt] 30009 or 30006 errors.
 Discussion
 January 21st at 6:48 am
 Greetings!
-We need help tracking down another issue. The 3k9 or 3k6 errors are fairly common on live, are often associated with recovery and/or bed logout, and can be debilitating. However, due to account copy they frequently are under reported during the PTU cycle. If any of you experienced this issue, please post below and let us know if/how you were able to resolve.</description>
-    </item>
-    
-  </channel>
-</rss>
+We need help tracking down another issue. The 3k9 or 3k6 errors are fairly common on live, are often associated with recovery and/or bed logout, and can be debilitating. However, due to account copy they frequently are under reported during the PTU cycle. If any of you experienced this issue, please post below and let us know if/how you were able to resolve.</description></item></channel></rss>

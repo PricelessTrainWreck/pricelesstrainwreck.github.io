@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Maintainable on Thread Recap</title>
-    <link>https://pricelesstrainwreck.github.io/tags/maintainable/</link>
-    <description>Recent content in Maintainable on Thread Recap</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pricelesstrainwreck.github.io/tags/maintainable/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>April 2020 Set 2</title>
-      <link>https://pricelesstrainwreck.github.io/post/2020-04-22/</link>
-      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pricelesstrainwreck.github.io/post/2020-04-22/</guid>
-      <description>April 2020 Set 2
-  It&amp;rsquo;s fun watching rationalanthropoid&amp;rsquo;s arguments over at devolve into huge walls of text about how CIG sucks at communicating their progress but is also progressing really well, although we cannot really observe that so we must extrapolate the truth based on how much they suck at communicating.
-So, since they suck so much at that then what they are truly saying can be anything and therefore it is!</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Maintainable on Priceless Trainwreck</title><link>https://pricelesstrainwreck.github.io/tags/maintainable/</link><description>Recent content in Maintainable on Priceless Trainwreck</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://pricelesstrainwreck.github.io/tags/maintainable/index.xml" rel="self" type="application/rss+xml"/><item><title>April 2020 Set 2</title><link>https://pricelesstrainwreck.github.io/post/2020-04-22/</link><pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate><guid>https://pricelesstrainwreck.github.io/post/2020-04-22/</guid><description>April 2020 Set 2
+It&amp;rsquo;s fun watching rationalanthropoid&amp;rsquo;s arguments over at devolve into huge walls of text about how CIG sucks at communicating their progress but is also progressing really well, although we cannot really observe that so we must extrapolate the truth based on how much they suck at communicating.
+So, since they suck so much at that then what they are truly saying can be anything and therefore it is!</description></item></channel></rss>

@@ -1,27 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Certification on Thread Recap</title>
-    <link>https://pricelesstrainwreck.github.io/tags/certification/</link>
-    <description>Recent content in Certification on Thread Recap</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pricelesstrainwreck.github.io/tags/certification/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Mar 2020 Set 1</title>
-      <link>https://pricelesstrainwreck.github.io/post/2020-03-15/</link>
-      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pricelesstrainwreck.github.io/post/2020-03-15/</guid>
-      <description>Mar 2020 Set 1
-  https://www.millenium.org/news/360471.html
-Star Citizen : Interview de Dan Trufin au Bar Citizen de Liège 2020  According to Dan, refueling is more an activity than a full career. This involves buying fuel (or making it), possibly responding to a distress call, and transferring fuel from one vessel to another.
-Chris Robert wants the connection between the ships to be visible . There will therefore be a pole as for supply planes.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Certification on Priceless Trainwreck</title><link>https://pricelesstrainwreck.github.io/tags/certification/</link><description>Recent content in Certification on Priceless Trainwreck</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://pricelesstrainwreck.github.io/tags/certification/index.xml" rel="self" type="application/rss+xml"/><item><title>Mar 2020 Set 1</title><link>https://pricelesstrainwreck.github.io/post/2020-03-15/</link><pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate><guid>https://pricelesstrainwreck.github.io/post/2020-03-15/</guid><description>Mar 2020 Set 1
+https://www.millenium.org/news/360471.html
+Star Citizen : Interview de Dan Trufin au Bar Citizen de Liège 2020 According to Dan, refueling is more an activity than a full career. This involves buying fuel (or making it), possibly responding to a distress call, and transferring fuel from one vessel to another.
+Chris Robert wants the connection between the ships to be visible . There will therefore be a pole as for supply planes.</description></item></channel></rss>
