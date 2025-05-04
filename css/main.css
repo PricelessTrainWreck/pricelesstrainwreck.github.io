@@ -684,8 +684,8 @@ small {
 	background: #0a0a0a;
   border-radius: 20px;
   position: relative;
-  bottom: -24px;
-  margin-left: -30px;
+  bottom: -30px;
+  margin-left: 5px;
   width: 33%
 }
 
@@ -696,13 +696,9 @@ small {
   bottom: 3px;
   left: 14px;
   -webkit-filter: drop-shadow(1px 1px 10px #720606);
-  background: #15151500;
 }
 
 .goonposter {
-  background: #15151500;
-  /* transform: rotate(40deg); */
-  /* z-index: -1; */
   position: relative;
   height: 16px;
   left: 6px;
@@ -720,5 +716,5 @@ small {
 
 .sa-emote {
   -webkit-filter: drop-shadow(0px 0px 7px #ffffff);
-  background: #15151500;
+  background: #151515;
 }
