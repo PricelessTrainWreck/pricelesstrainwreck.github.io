@@ -673,9 +673,6 @@ small {
 }
 
 
-
-
-
 /* EXTRAS */
 
 .poster {
@@ -703,6 +700,7 @@ small {
   height: 16px;
   left: 6px;
   top: 4px;
+  -webkit-filter: drop-shadow(1px 1px 10px #720606);
 }
 
 .avatarposter {
