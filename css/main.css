@@ -662,6 +662,7 @@ table tbody tr {
 code[class*=language-],pre[class*=language-], code {
 	text-shadow:none;
 	margin:1.75rem 0;
+  word-break: normal;
 }
 
 small {
